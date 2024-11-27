@@ -21,7 +21,7 @@
 <h2>💼 Find Out More</h2>
 <p>
   For a deeper dive into my journey and experiences, visit my 
-  <a href="https://www.linkedin.com/in/manish-kumar-sah/" target="_blank">LinkedIn profile</a>.
+  <a href="https://www.linkedin.com/in/manish-kumar-sah-679440289/" target="_blank">LinkedIn profile</a>.
 </p>
 
 ---
