@@ -28,6 +28,6 @@
 
 <h2>✨ Let’s Connect</h2>
 <p>
-  📧 <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a> <br>
+  📧 <strong>Email:</strong> <a href="https://mail.google.com/mail/u/1/#inbox">contact me</a> <br>
   🤝 Always open to networking, discussions, and collaborations.
 </p>
