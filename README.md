@@ -1,4 +1,3 @@
-![image.png](https://assets.leetcode.com/users/images/605a639c-3353-49ca-b86d-803c6ed63738_1734789519.5241745.png)
 <h1 align="center"></h1>
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
