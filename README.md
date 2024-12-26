@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;Welcome+to+my+GitHub+Profile;Myself+Manish+Kumar+Sah;I'm+a+programmer;I+Love+to+Solve+Problems;Code+Math+Coffee+=+Heaven;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;Welcome+to+GitHub+Profile;Myself+Manish+Kumar+Sah;I'm+a+programmer;I+Love+to+Solve+Problems;Code+Math+Coffee+=+Heaven;">
   </a>
 <h3 align="center">  Leetcode (30) | Programmer | Computer Science & Engineering</h3>
 </p>
