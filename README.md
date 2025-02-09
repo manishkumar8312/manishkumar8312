@@ -3,7 +3,7 @@
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;Welcome+to+GitHub+Profile;Myself+Manish+Kumar+Sah;I'm+a+Programmer;I+Love+to+Solve+Problems;Code+Math+Coffee+=+Heaven;">
   </a>
-<h3 align="center">  Leetcode (80) | Programmer | Computer Science & Engineering</h3>
+<h3 align="center">  Leetcode | Programmer | Computer Science & Engineering</h3>
 </p>
 </h1>
 <img align="right" alt = "coding" width="400" src = "https://assets.leetcode.com/users/images/af6d021c-7f2b-461b-a82a-ba4cc0cb719e_1734759717.280324.gif">
