@@ -71,13 +71,13 @@
 
 
 
- 
-<h3 align="left">🔥My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishkumar8312&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://github.com/manishkumar8312">
+    <img src="https://streak-stats.demolab.com?user=manishkumar8312&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/main/streak.png';"/>
+  </a>
 </div>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Manish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Manish" /></a></p><br><br>
