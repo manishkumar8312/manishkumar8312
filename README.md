@@ -65,7 +65,7 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" style="margin-right: 10px;"/> 
-  </a>
+  </a> 
 </p>
 
 <h3 align="left">🔥 My Stats</h3>
