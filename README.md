@@ -82,11 +82,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar8312&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" alt="Screenshot"/>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake-dark.svg">
