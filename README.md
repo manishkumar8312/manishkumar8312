@@ -23,9 +23,9 @@
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/manish8312/)  
 - ⚡ Fact: **At the end everything is static**  
 
-<a href="https://leetcode.com/u/manish_code_fun/" target="_blank">
+/* <a href="https://leetcode.com/u/manish_code_fun/" target="_blank">
   <img align="right" src="https://leetcard.jacoblin.cool/manish_code_fun?hide=ranking&border=0&radius=21" alt="LeetCode Stats">
-</a>
+</a> */
 
 <h3 align="left">Connect with me:</h3>
 
