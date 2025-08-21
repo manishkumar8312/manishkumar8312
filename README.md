@@ -6,7 +6,7 @@
 
 <h3 align="center"> Leetcode | Programmer | Computer Science & Engineering </h3>
 
-<img align="right" alt="coding" width="400" src="https://assets.leetcode.com/users/images/af6d021c-7f2b-461b-a82a-ba4cc0cb719e_1734759717.280324.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydmFiYTI3M2FhMDl2aTl6aGY1cTRhczRveG55ZzcxM2V4MHFpdjdjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manishkumar8312&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar8312" />
