@@ -13,6 +13,9 @@
 </p>
 
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manishkumar8312" alt="manishkumar8312" />
+  </a>
 </p>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/manishkumar8312)  
