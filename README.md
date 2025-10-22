@@ -31,8 +31,8 @@
   <a href="https://www.linkedin.com/in/manish8312/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/agile_door_14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  <a href="https://codeforces.com/profile/coder_manish" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/code_manish" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
@@ -41,6 +41,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
   </a>
 </p>
+
 
 <a href="https://leetcode.com/u/code_manish/" target="_blank">
   <img align="right" src="https://leetcard.jacoblin.cool/code_manish?hide=ranking&border=0&radius=21" alt="LeetCode Stats">
