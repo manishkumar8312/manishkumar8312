@@ -86,6 +86,7 @@
 <p>
   <a href="https://ko-fi.com/Manish">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-Fi" />
+    
   </a>
 </p>
 
@@ -97,13 +98,14 @@
   <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
   
 </p>
- <img
-    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake-dark.svg"
-    alt="GitHub snake animation"
-    width="600"
-    height="400"
-   align="center"
+ <div style="text-align: center;">
+  <img 
+    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake-dark.svg" 
+    alt="GitHub Snake"
+    style="max-width: 100%; height: auto;"
   />
+</div>
+
 ---
 
 <p align="center">
