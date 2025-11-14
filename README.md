@@ -97,7 +97,12 @@
   <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
   
 </p>
-  ![snake gif](https://github.com/manishkumar8312/manishkumar8312/blob/output/github-snake-dark.svg)
+ <img
+    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake-dark.svg"
+    alt="GitHub snake animation"
+    width="400"
+    height="200"
+  />
 ---
 
 <p align="center">
