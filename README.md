@@ -100,7 +100,7 @@
 </p>
  <div style="text-align: center;">
   <img 
-    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake-dark.svg" 
+    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" 
     alt="GitHub Snake"
     style="max-width: 100%; height: auto;"
   />
