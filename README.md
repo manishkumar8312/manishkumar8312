@@ -100,8 +100,9 @@
  <img
     src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake-dark.svg"
     alt="GitHub snake animation"
-    width="400"
-    height="200"
+    width="600"
+    height="400"
+   align="center"
   />
 ---
 
