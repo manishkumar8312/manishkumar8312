@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;A+Passionate+Programmer;I+❤️+Coding,+Math+and+Coffee;Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;A+Passionate+Programmer;Focused+on+Coding,+Math+and+Problem+Solving">
   </a>
 </h1>
 
-<h3 align="center">💻 LeetCoder | Programmer | CSE Undergrad | Problem Solver</h3>
+<h3 align="center">LeetCoder | Programmer | CSE Undergrad | Problem Solver</h3>
 
 ---
 
@@ -16,16 +16,16 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 
-- 👨‍💻 All of my projects are available on [**GitHub**](https://github.com/manishkumar8312)  
-- 🏅 Currently learning **Competitive Programming**  
-- 📝 I write articles on [**LinkedIn**](https://www.linkedin.com/in/manish8312/)  
-- ⚡ Fun Fact: *At the end, everything is static!* 😅  
+- All of my projects are available on **GitHub**: [github.com/manishkumar8312](https://github.com/manishkumar8312)  
+- Currently focused on **Competitive Programming**  
+- I write technical articles on **LinkedIn**: [linkedin.com/in/manish8312](https://www.linkedin.com/in/manish8312/)  
+- Fun Fact: *At the end, everything is static.*  
 
 ---
 
-### 🧩 Connect with Me  
+### Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manish8312/" target="_blank">
@@ -42,14 +42,13 @@
   </a>
 </p>
 
-
 <a href="https://leetcode.com/u/code_manish/" target="_blank">
   <img align="right" src="https://leetcard.jacoblin.cool/code_manish?hide=ranking&border=0&radius=21" alt="LeetCode Stats">
 </a>
 
 ---
 
-### 🧰 Languages and Tools  
+### Languages and Tools  
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
@@ -66,7 +65,7 @@
 
 ---
 
-### 🔥 My Stats  
+### Statistics  
 
 <div align="center">
   <a href="https://github.com/manishkumar8312">
@@ -81,24 +80,22 @@
 
 ---
 
-### ☕ Support Me  
+### Support  
 
 <p>
   <a href="https://ko-fi.com/Manish">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-Fi" />
-    
   </a>
 </p>
 
 ---
 
-### 🐍 The Snake That Eats My Contributions  
+### Contribution Graph Snake  
 
 <p align="center">
-  <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
-  
+  <i>Automated contribution snake graph:</i><br><br>
 </p>
- <div style="text-align: center;">
+<div style="text-align: center;">
   <img 
     src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" 
     alt="GitHub Snake"
@@ -113,9 +110,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" width="600" alt="Cool Visual"/>
+  <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" width="600" alt="Visual"/>
 </p>
 
 ---
 
-<h4 align="center">✨ Thanks for visiting! Don’t forget to leave a ⭐ on repositories you like! ✨</h4>
+<h4 align="center">Thank you for visiting. Feel free to explore my repositories.</h4>
