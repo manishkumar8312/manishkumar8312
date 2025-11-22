@@ -8,9 +8,7 @@
   💻 LeetCoder • Programmer • CSE Undergrad • Problem Solver
 </h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar8312&theme=github_dark" alt="Profile Summary"/>
-</p>
+
 
 ---
 
@@ -74,6 +72,8 @@
 
 ### 🔥 My Stats  
 
+
+
 <div align="center">
   <a href="https://github.com/manishkumar8312">
     <img src="https://streak-stats.demolab.com?user=manishkumar8312&theme=dark&hide_border=true&border_radius=5" height="220" alt="GitHub Streak"/>
@@ -85,6 +85,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar8312&layout=compact&theme=dracula" height="150" alt="Top Languages"/>
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar8312&theme=github_dark" alt="Profile Summary"/>
+</p>
 ---
 
 ### ☕ Support Me  
