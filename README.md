@@ -4,7 +4,13 @@
   </a>
 </h1>
 
-<h3 align="center">💻 LeetCoder | Programmer | CSE Undergrad | Problem Solver</h3>
+<h3 align="center">
+  💻 LeetCoder • Programmer • CSE Undergrad • Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile Summary"/>
+</p>
 
 ---
 
