@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  💻 LeetCoder • Programmer • CSE Undergrad • Problem Solver
+    LeetCoder • Programmer • CSE Undergrad • Problem Solver
 </h3>
 
 
@@ -21,16 +21,16 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 
-- 👨‍💻 All of my projects are available on [**GitHub**](https://github.com/manishkumar8312)  
-- 🏅 Currently learning **Competitive Programming**  
-- 📝 I write articles on [**LinkedIn**](https://www.linkedin.com/in/manish8312/)  
-- ⚡ Fun Fact: *At the end, everything is static!* 😅  
+-  All of my projects are available on [**GitHub**](https://github.com/manishkumar8312)  
+-  Currently learning **Competitive Programming**  
+-  I write articles on [**LinkedIn**](https://www.linkedin.com/in/manish8312/)  
+-  Fun Fact: *Understanding the problem is half the solution.* 
 
 ---
 
-### 🧩 Connect with Me  
+### Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manish8312/" target="_blank">
@@ -57,7 +57,7 @@
 
 ---
 
-### 🧰 Languages and Tools  
+### Languages and Tools  
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
@@ -74,7 +74,7 @@
 
 ---
 
-### 🔥 My Stats  
+### My Stats  
 
 
 
@@ -105,10 +105,10 @@
 
 ---
 
-### 🐍 The Snake That Eats My Contributions  
+### The Snake That Eats My Contributions  
 
 <p align="center">
-  <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
+  <i>“Beware! This snake grows stronger with every commit... ”</i><br><br>
   
 </p>
  <div style="text-align: center;">
@@ -131,4 +131,4 @@
 
 ---
 
-<h4 align="center">✨ Thanks for visiting! Don’t forget to leave a ⭐ on repositories you like! ✨</h4>
+<h4 align="center"> Thanks for visiting! Don’t forget to leave a ⭐ on repositories you like! </h4>
