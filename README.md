@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-    LeetCoder • Programmer • CSE Undergrad • Problem Solver
+    Competitive Programmer • Software Engineering Enthusiast • CSE Undergraduate
 </h3>
 
 
