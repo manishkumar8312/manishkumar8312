@@ -1,13 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;A+Passionate+Programmer;I+❤️+Coding,+Math+and+Chai;Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;A+Passionate+Competitive+Programmer;I+❤️+Coding,+Math+and+Coffee;Learning+One+Problem+at+a+Time">
   </a>
 </h1>
 
-
-<h3 align="center">
-    Competitive Programmer • Software Engineering Enthusiast • CSE Undergraduate
-</h3>
 
 
 
