@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;Learning+Competitive+Programming;Building+Projects+That+Actually+Work;Learning%2C+Failing%2C+Improving+%E2%80%94+EveryDay">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;Learning+Competitive+Programming;Building+Projects+That+Actually+Matter;Learning%2C+Failing%2C+Improving+%E2%80%94+EveryDay">
   </a>
 
 </h1>
