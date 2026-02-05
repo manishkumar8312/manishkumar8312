@@ -9,7 +9,7 @@
 <img 
   align="right"
   alt="Coding"
-  src="https://media.tenor.com/rEd35Rfq3m4AAAAM/cat-work-in-progress.gif"
+  src="https://cdn.dribbble.com/userupload/42192649/file/original-0fa06a1b85fb43faec0132b0494dff2c.gif"
   width="300"
 />
 
