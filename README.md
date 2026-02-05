@@ -6,8 +6,13 @@
 </h1>
 
 ---
+<img 
+  align="right"
+  alt="Coding"
+  src="https://media.tenor.com/rEd35Rfq3m4AAAAM/cat-work-in-progress.gif"
+  width="300"
+/>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/rEd35Rfq3m4AAAAM/cat-work-in-progress.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manishkumar8312&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
