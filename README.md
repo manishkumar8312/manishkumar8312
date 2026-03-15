@@ -47,11 +47,11 @@
 </p>
 
 
-<a href="https://leetcode.com/u/code_manish/" target="_blank">
+<!-- <a href="https://leetcode.com/u/code_manish/" target="_blank">
   <img align="right"
        src="https://leetcard.jacoblin.cool/code_manish?theme=light&border=0&radius=21"
        alt="LeetCode Stats" />
-</a>
+</a> -->
 
 
 
