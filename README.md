@@ -25,7 +25,7 @@
 -  All of my projects are available on [**GitHub**](https://github.com/manishkumar8312)  
 -  Currently learning **Competitive Programming**  
 -  I write articles on [**LinkedIn**](https://www.linkedin.com/in/manish8312/)  
--  Fun Fact: *Understanding the problem is half the solution.* 
+-  Fun Fact: *Waiting for motivation is the best way to stay stuck.*
 
 ---
 
