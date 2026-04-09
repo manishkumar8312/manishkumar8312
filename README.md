@@ -38,7 +38,7 @@
   <a href="https://codeforces.com/profile/coder_manish" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/code_manish" target="_blank">
+  <a href="https://leetcode.com/u/soulCoder01/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k" target="_blank">
