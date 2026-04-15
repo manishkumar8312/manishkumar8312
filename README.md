@@ -32,17 +32,17 @@
 ### Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manish8312/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/manish8312/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://codeforces.com/profile/coder_manish" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="30" width="40" />
+  <a href="https://codeforces.com/profile/coder_manish">
+    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces"/>
   </a>
-  <a href="https://leetcode.com/u/soulCoder01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="https://leetcode.com/u/soulCoder01/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k">
+    <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
 </p>
 
