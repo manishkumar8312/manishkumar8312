@@ -1,134 +1,108 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub+Profile!;I'm+Manish+Kumar+Sah;Learning+Competitive+Programming;Building+Projects+That+Actually+Matter;Learning%2C+Failing%2C+Improving+%E2%80%94+EveryDay">
-  </a>
-
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1A9AF7&center=true&vCenter=true&width=750&lines=Manish+Kumar+Sah;Competitive+programmer+by+practice;Full+stack+developer+by+project;Learning+DS%2FA+one+problem+at+a+time;Building+things+that+actually+work" alt="Typing SVG" />
+</a>
 </h1>
 
----
-<img 
-  align="right"
-  alt="Coding"
-  src="https://cdn.dribbble.com/userupload/42192649/file/original-0fa06a1b85fb43faec0132b0494dff2c.gif"
-  width="300"
-/>
-
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manishkumar8312&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=manishkumar8312&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
 
 ---
 
-### About Me  
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/userupload/42192649/file/original-0fa06a1b85fb43faec0132b0494dff2c.gif" width="300">
 
--  All of my projects are available on [**GitHub**](https://github.com/manishkumar8312)  
--  Currently learning **Competitive Programming**  
--  I write articles on [**LinkedIn**](https://www.linkedin.com/in/manish8312/)  
--  Fun Fact: *Waiting for motivation is the best way to stay stuck.*
+### About Me
 
----
-
-### Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manish8312/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://codeforces.com/profile/coder_manish">
-    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/soulCoder01/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k">
-    <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
-</p>
-
-
-<!-- <a href="https://leetcode.com/u/code_manish/" target="_blank">
-  <img align="right"
-       src="https://leetcard.jacoblin.cool/code_manish?theme=light&border=0&radius=21"
-       alt="LeetCode Stats" />
-</a> -->
-
-
+- Currently focused on **Competitive Programming** and **Full Stack Development**
+- Deepening my knowledge of **Data Structures & Algorithms**, **React**, and **Node.js**
+- Open to collaborating on meaningful open source projects
+- Technical interests: C++, JavaScript, system design, and algorithmic problem solving
+- Find my articles and insights on [LinkedIn](https://www.linkedin.com/in/manish8312/)
+- *Daily discipline over sporadic motivation*
 
 ---
 
-### Languages and Tools
+### Connect
 
 <p align="left">
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/manish8312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/coder_manish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/u/soulCoder01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 ---
 
-### My Stats  
+### Technology Stack
 
+<p align="left">
+  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C"></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"></a>
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"></a>
+</p>
 
+---
+
+### GitHub Performance
 
 <div align="center">
-  <a href="https://github.com/manishkumar8312">
-    <img src="https://streak-stats.demolab.com?user=manishkumar8312&theme=dark&hide_border=true&border_radius=5" height="220" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=manishkumar8312&theme=dark&hide_border=true&border_radius=5" height="200" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar8312&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar8312&layout=compact&theme=dracula" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar8312&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar8312&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages">
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar8312&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar8312&theme=radical" alt="Contribution Details">
 </p>
+
 ---
 
-### ☕ Support Me  
+### Achievements
 
-<p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar8312&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
+</p>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" alt="Snake animation of contributions">
+</p>
+
+---
+
+### Support
+
+<p align="center">
   <a href="https://ko-fi.com/Manish">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-Fi" />
-    
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee">
   </a>
 </p>
 
 ---
 
-### The Snake That Eats My Contributions  
-
 <p align="center">
-  <i>“Beware! This snake grows stronger with every commit... ”</i><br><br>
-  
-</p>
- <div style="text-align: center;">
-  <img 
-    src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" 
-    alt="GitHub Snake"
-    style="max-width: 100%; height: auto;"
-  />
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar8312&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <i>“Code. Learn. Build. Repeat.”</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" width="600" alt="Cool Visual"/>
+  <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" width="600" alt="Decorative separator">
 </p>
 
----
-
-<h4 align="center"> Thanks for visiting! Don’t forget to leave a ⭐ on repositories you like! </h4>
+<p align="center">
+  Thank you for visiting. If you find value in any of my repositories, a star is appreciated.
+</p>
