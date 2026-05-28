@@ -58,11 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=manishkumar8312&theme=dark&hide_border=true&border_radius=5" height="200" alt="GitHub Streak">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar8312&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar8312&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages">
-</div>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar8312&theme=radical" alt="Contribution Details">
 </p>
