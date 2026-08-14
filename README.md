@@ -1,35 +1,33 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1A9AF7&center=true&vCenter=true&width=750&lines=Manish+Kumar+Sah;Competitive+programmer+by+practice;Full+stack+developer+by+project;Learning+DS%2FA+one+problem+at+a+time;Building+things+that+actually+work" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1A9AF7&center=true&vCenter=true&width=750&lines=Manish+Kumar+Sah;Competitive+Programmer+by+Practice;Full+Stack+Developer+by+Project;Learning+DSA+one+problem+at+a+time;Building+things+that+actually+work" alt="Typing SVG" />
+  </a>
 </h1>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishkumar8312&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
 
 ---
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/userupload/42192649/file/original-0fa06a1b85fb43faec0132b0494dff2c.gif" width="300">
-
 ### About Me
 
-- Currently focused on **Competitive Programming** and **System Design**
-- Deepening my knowledge of **Data Structures & Algorithms**, **React**, and **Node.js**
-- Open to collaborating on meaningful open source projects
-- Technical interests: C++, JavaScript, system design, and algorithmic problem solving
-- Find my articles and insights on [LinkedIn](https://www.linkedin.com/in/manish8312/)
-- *Daily discipline over sporadic motivation*
+I am Manish Kumar Sah. I practice competitive programming, build full-stack projects, and study system design. 
+
+- Currently deepening my knowledge of **Data Structures & Algorithms**, **React**, and **Node.js**.
+- Open to collaborating on meaningful open-source projects.
+- Technical interests include C++, JavaScript, and algorithmic problem solving.
+- I share articles and insights on [LinkedIn](https://www.linkedin.com/in/manish8312/).
 
 ---
 
-### Connect
+### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manish8312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/coder_manish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="https://leetcode.com/u/soulCoder01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manish8312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://codeforces.com/profile/coder_manish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://leetcode.com/u/soulCoder01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://auth.geeksforgeeks.org/user/codeisfuvi4k"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
 ---
@@ -52,7 +50,7 @@
 
 ---
 
-### GitHub Performance
+### GitHub Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manishkumar8312&theme=dark&hide_border=true&border_radius=5" height="200" alt="GitHub Streak">
@@ -64,40 +62,18 @@
 
 ---
 
-### Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar8312&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</p>
-
----
-
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" alt="Snake animation of contributions">
-</p>
-
----
-
-### Support
-
-<p align="center">
-  <a href="https://ko-fi.com/Manish">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee">
-  </a>
+  <img src="https://raw.githubusercontent.com/manishkumar8312/manishkumar8312/output/github-snake.svg" alt="Contribution snake animation">
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i>
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381" width="600" alt="Decorative separator">
-</p>
-
-<p align="center">
-  Thank you for visiting. If you find value in any of my repositories, a star is appreciated.
+  Thank you for visiting my profile. If you find any repository useful, please consider starring it.
 </p>
