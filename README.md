@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Currently focused on **Competitive Programming** and **Full Stack Development**
+- Currently focused on **Competitive Programming** and **System Design**
 - Deepening my knowledge of **Data Structures & Algorithms**, **React**, and **Node.js**
 - Open to collaborating on meaningful open source projects
 - Technical interests: C++, JavaScript, system design, and algorithmic problem solving
